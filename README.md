@@ -4,8 +4,7 @@
 Programmer | Learner
 
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MashkaniAli&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-<br><br><br>
+
 - 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **Flutter**
@@ -30,6 +29,7 @@ Programmer | Learner
 <br />
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MashkaniAli.visitor-badge&left_color=blue&right_color=yellow)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MashkaniAli&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <br />
 
 [![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=MashkaniAli&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/MashkaniAli/github-readme-activity-graph)
