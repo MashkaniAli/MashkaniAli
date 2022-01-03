@@ -47,9 +47,14 @@ Programmer | Learner
 <br>
 
 
-<p><img width="494" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashkaniAli&show_icons=true&locale=en&layout=compact" alt="Ali Mashkani" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashkaniAli&show_icons=true&locale=en&layout=compact" alt="Ali Mashkani" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MashkaniAli&show_icons=true&locale=en" alt="Ali Mashkani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MashkaniAli&show_icons=true&locale=en" alt="Ali Mashkani" /></p>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev
@@ -58,3 +63,5 @@ Programmer | Learner
 [instagram]: https://instagram.com/alimashkani42/
 [linkedin]: https://linkedin.com/in/mahbubdev
 [telegram]: https://t.me/Mr_Developer_78
+
+
