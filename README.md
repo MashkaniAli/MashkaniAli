@@ -4,7 +4,8 @@
 Programmer | Learner
 
 </h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MashkaniAli&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<br><br><br>
 - 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **Flutter**
@@ -35,19 +36,11 @@ Programmer | Learner
 
 
 <h3 align="left">Languages and Tools:</h3>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<br>
-<br>
-<br>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
 
-<p><img width="494" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashkaniAli&show_icons=true&locale=en&layout=compact" alt="Ali Mashkani" /></p>
-<br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=MashkaniAli&show_icons=true&locale=en" alt="Ali Mashkani" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashkaniAli&show_icons=true&locale=en&layout=compact" alt="Ali Mashkani" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MashkaniAli&show_icons=true&locale=en" alt="Ali Mashkani" /></p>
 
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/MahbubDev
