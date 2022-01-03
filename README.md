@@ -31,7 +31,7 @@ Programmer | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MashkaniAli.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
+[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=MashkaniAli&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/MashkaniAli/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
