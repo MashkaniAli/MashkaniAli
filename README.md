@@ -41,7 +41,9 @@ Programmer | Learner
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-
+<br>
+<br>
+<br>
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MashkaniAli&show_icons=true&locale=en&layout=compact" alt="Ali Mashkani" /></p>
 
