@@ -17,8 +17,8 @@ Programmer | Learner
 
 ### Connect with me:
 
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ali Mashkani | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt="Ali Mashkani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -61,7 +61,7 @@ Programmer | Learner
 [twitter]: https://twitter.com/mahbubdev
 [youtube]: https://youtube.com/TechHelpBangladesh
 [instagram]: https://instagram.com/alimashkani42/
-[linkedin]: https://linkedin.com/in/mahbubdev
+[linkedin]: https://www.linkedin.com/in/ali-mashkani-60a45222a
 [telegram]: https://t.me/Mr_Developer_78
 
 
