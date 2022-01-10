@@ -7,6 +7,8 @@ Programmer | Learner
 
 - 🔭 I’m currently working on **Android Development**
 
+- 🔭 I’m currently working on **MySql**
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Anything**
